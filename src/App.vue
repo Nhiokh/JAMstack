@@ -39,5 +39,6 @@ export default {
 }
 div {
   outline: none;
+  height: 95vh;
 }
 </style>

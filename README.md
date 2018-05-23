@@ -1,21 +1,31 @@
-# jamstack
+# JAMstack
 
 > A presentation of the JAMstack
 
-## Build Setup
+Available at : https://jamstackprez.netlify.com/
 
-``` bash
-# install dependencies
-npm install
+## Headless CMS
 
-# serve with hot reload at localhost:8080
-npm run dev
+#### Gatsby : Blazing-fast static site generator for React
+https://www.gatsbyjs.org/
 
-# build for production with minification
-npm run build
+#### Vuepress : Vue-powered Static Site Generator
+https://vuepress.vuejs.org/
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+#### Hexo : A fast, simple & powerful blog framework
+https://hexo.io/
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## CDN Hosting
+
+#### Netlify :  Build, deploy, and manage modern web projects 
+https://www.netlify.com/
+
+#### AWS : Highly programmable, secure content delivery network
+https://aws.amazon.com/cloudfront/
+
+#### Github Pages : Websites for you and your projects
+https://pages.github.com/
+
+#### Firebase : Build apps fast, without managing infrastructure
+https://firebase.google.com/docs/hosting/
+ 

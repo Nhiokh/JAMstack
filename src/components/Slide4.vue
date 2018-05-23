@@ -4,23 +4,14 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: 'Slide4',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
-}
-</script>
-
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
   .slide {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+    height: 100%;
   }
 
   h1 {
