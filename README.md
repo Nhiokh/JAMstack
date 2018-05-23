@@ -5,13 +5,15 @@
 Deployed at : https://jamstackprez.netlify.com/
 
 
-### More about the JAMstack
+
+
+## More about the JAMstack
 
 #### JAMstack officious website 
 https://jamstack.org/ 
 
 
-### Headless CMS
+## Headless CMS
 
 ##### Gatsby : Blazing-fast static site generator for React
 https://www.gatsbyjs.org/
@@ -23,7 +25,7 @@ https://vuepress.vuejs.org/
 https://hexo.io/
 
 
-### CDN Hosting
+## CDN Hosting
 
 ##### Netlify : Build, deploy, and manage modern web projects 
 https://www.netlify.com/
@@ -38,7 +40,7 @@ https://pages.github.com/
 https://firebase.google.com/docs/hosting/
 
 
-### Awesome open-source APIs
+## Awesome open-source APIs
 
 http://www.brewerydb.com/
 https://api.chucknorris.io/
