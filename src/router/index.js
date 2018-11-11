@@ -9,6 +9,7 @@ import Slide6 from '@/components/Slide6'
 import Slide7 from '@/components/Slide7'
 import Slide8 from '@/components/Slide8'
 import Slide9 from '@/components/Slide9'
+import Slide10 from '@/components/Slide10'
 
 Vue.use(Router)
 
