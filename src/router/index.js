@@ -53,6 +53,10 @@ export default new Router({
     {
       path: '/9',
       component: Slide9
+    },
+    {
+      path: '/10',
+      component: Slide10
     }
   ]
 })

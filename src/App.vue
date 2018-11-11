@@ -19,11 +19,11 @@ export default {
   },
   methods: {
     nextSlide: function () {
-      let newRoute = `/${++this.currentRoute}`
+      let newRoute = `/${++this.currentRoute}`;
       this.$router.push(newRoute)
     },
     previousSlide: function () {
-      let newRoute = `/${--this.currentRoute}`
+      let newRoute = `/${--this.currentRoute}`;
       this.$router.push(newRoute)
     }
   }
